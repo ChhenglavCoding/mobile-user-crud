@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">frist_android_app</string>
+    <string name="list_user">List User</string>
+    <string name="create_user">Create User</string>
+    <string name="back">Back</string>
+    <string name="select_role">Select Role</string>
+    <string name="femal">Femal</string>
+    <string name="female" />
+    <string name="male">Male</string>
+    <string name="email">Email</string>
+    <string name="uersname">Uersname</string>
+    <string name="Uersname" />
+    <string name="title">Title</string>
+    <string name="Role" />
+    <string name="Email" />
+</resources>
